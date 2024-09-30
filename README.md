@@ -11,7 +11,7 @@ Kelas : A'2024
 
 Pada flowchart yang telah saya buat, proses dimulai dengan simbol START berbentuk Oval. langkah langkahnya pengguna di arahkan halaman login untuk memasukan nama dan nim supaya bisa akses, jika nama dan nim salah, kembali di minta untuk kembali login, setelah nama dan nim benar akan masuk ke akses perhitungan gaji. setelah masuk diminta memasukkan jam kerja dan tarif kerja. Setelah itu proses total gaji. Perhitungan bonus, jika jam kerja lebih dari 160 jam maka akan mendapatkan bonus 10% dan di tambahkan ke total gaji, begitu pun sebaliknya. Setelah perhitungan selesai, diberikan pilihan mengulang perhitungan atau tidak. jika pilih ya, kembali ke "masukan jam kerja dan tarif kerja" dan jika pilih tidak, proses menghitungan telah selesai.
 
-# Code Pyhthon
+# Code Python
 
    ![895ee58b-e947-47a8-8900-30ac6b62bcdf](https://github.com/user-attachments/assets/3f290b3e-c188-438a-9a0e-ab94da0a4ae3)
 
