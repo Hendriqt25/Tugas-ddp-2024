@@ -33,7 +33,7 @@ while True:
     print(f"Total gaji yang diserahkan: {total_gaji}")
 
  elif jam_kerja < 160:
-    print(f"Total gaji yang di serahkan: Rp.{total_gaji}")
+    print(f"Total gaji yang di serahkan: {total_gaji}")
  print("==================================================")
     
  ulang = "ya"
