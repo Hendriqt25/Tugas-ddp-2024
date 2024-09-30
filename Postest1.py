@@ -33,6 +33,7 @@ while True:
     print(f"Total gaji yang diserahkan: {total_gaji}")
 
  elif jam_kerja < 160:
+    print("Tidak ada bonus")
     print(f"Total gaji yang di serahkan: {total_gaji}")
  print("==================================================")
     
@@ -57,6 +58,7 @@ while True:
             print(f"Total gaji yang diserahkan: {total_gaji}")
         
         elif jam_kerja < 160:
+            print("Tidak ada bonus")
             print(f"Total gaji yang di serahkan: {total_gaji}")
         print("==================================================")
         
