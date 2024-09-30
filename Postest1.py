@@ -44,8 +44,8 @@ while True:
         
         print("============================================")
         #input jam kerja dan tarif kerja
-        jam_kerja = int(input("Masukan jam kerja: "))
-        tarif_kerja = int(input("Masukan tarif : Rp. "))
+        jam_kerja = float(input("Masukan jam kerja: "))
+        tarif_kerja = float(input("Masukan tarif : Rp. "))
         #total gaji
         total_gaji = jam_kerja * tarif_kerja
         print("============================================")
